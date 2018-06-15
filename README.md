@@ -3,7 +3,7 @@ Creates a backup of your Wesnoth Server folder
 
 ---
 
-1. Edit the settings at the top of pokemonbackup.pl if needed
+1. Edit the settings at the top of wesnothbackup.pl if needed
 2. create a cron job like this:
 
         1 1 * * * /root/WesnothBackup/wesnothbackup.pl
