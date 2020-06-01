@@ -9,7 +9,7 @@ Official support sites: [Official Github Repo](https://github.com/fstltna/Wesnot
 1. Edit the settings at the top of wesnothbackup.pl if needed
 2. create a cron job like this:
 
-        1 1 * * * /root/WesnothBackup/wesnothbackup.pl
+        1 1 * * * /home/wesnothowner/WesnothBackup/wesnothbackup.pl
 
 3. This will back up your Wesnoth Server installation at 1:01am each day, and keep the last 5 backups.
 
