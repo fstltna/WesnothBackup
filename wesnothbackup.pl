@@ -2,13 +2,13 @@
 
 # Set these for your situation
 my $WESNOTHDIR = "/usr/local/share/wesnoth";
-my $BACKUPDIR = "/root/backups";
+my $BACKUPDIR = "/home/wesnothowner/backups";
 my $TARCMD = "/bin/tar czf";
 
 #-------------------
 # No changes below here...
 #-------------------
-my $VERSION = "1.0";
+my $VERSION = "1.1";
 
 print "Wesnoth Server Backup version $VERSION\n";
 print "========================\n";
