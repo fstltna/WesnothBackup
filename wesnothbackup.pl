@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 # Set these for your situation
-my $WESNOTHDIR = "/usr/local/share/wesnoth";
+my $WESNOTHDIR = "/home/wesnothowner/wesnoth";
 my $BACKUPDIR = "/home/wesnothowner/backups";
 my $TARCMD = "/bin/tar czf";
 
